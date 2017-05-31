@@ -1,12 +1,4 @@
 #!/usr/bin/evn python
-#-------------------------------------------------------------------------------
-# Name:        practice_plotting
-# Purpose:     converts fsdb plotting data into an intermediary format 
-#
-# Author:      andy
-#
-# Created:     10/10/2014
-#-------------------------------------------------------------------------------
 import sys, argparse
 
 parser = argparse.ArgumentParser(add_help=False)
